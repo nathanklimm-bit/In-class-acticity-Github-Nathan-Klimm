@@ -1,3 +1,5 @@
+#This is a comment adjusting the counter code#
+
 def bc (n):
     
     
