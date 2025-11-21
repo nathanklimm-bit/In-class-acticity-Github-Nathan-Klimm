@@ -1,4 +1,4 @@
-#This is a comment adjusting the counter code#
+#This is a comment adjusting the counter code - made by Daniel Di Traglia 000882895#
 
 def bc (n):
     
